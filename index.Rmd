@@ -10,7 +10,7 @@ link-citations: yes
 description: "."
 ---
 
-# Forword
+# Foreword
 
 Lorem ipsum dolor sit amet, modus decore nam at, an nam oportere intellegebat. Sed graeco contentiones comprehensam an. His id dolor contentiones comprehensam, te quo nusquam temporibus. Simul ridens efficiendi id mel. Eam tation expetenda ea, an exerci omnium iisque nam, ut propriae evertitur est. Cum elit assum referrentur at. Ad vix partem repudiare, elitr atomorum ei nec.
 
